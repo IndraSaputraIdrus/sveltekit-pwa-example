@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+:root {
+    --brutal: 0.4rem 0.4rem 0 #222;
+    --font-comfortaa: "Comfortaa Variable", sans-serif;
+}
